@@ -12,10 +12,6 @@ Ends on Oct 31st 23:59 Hrs
 
 ## 🤓 Contributing!
 
-### 💯 Rules:
-
-1.
-
 ### 🤷‍♂️ How To:
 
 1. We have compiled a few repos from various domains like web dev, game dev and AI/ML. You can find the list [here](repos.md).
