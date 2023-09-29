@@ -11,3 +11,9 @@
 ## AI / ML
 
 ## Others
+
+1. [uuvsimulator/uuv_simulator](https://github.com/uuvsimulator/uuv_simulator)
+2. [blender/blender](https://github.com/blender/blender)
+3. [gazebosim/gazebo-classic](https://github.com/gazebosim/gazebo-classic)
+4. [auvsocietyiiitdm/thrustered_vehicle_motioncontroller](https://github.com/auvsocietyiiitdm/thrustered_vehicle_motioncontroller)
+5. [manashmandal/KMapSolver](https://github.com/manashmandal/KMapSolver)
