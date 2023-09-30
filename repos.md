@@ -12,6 +12,7 @@
 8. [appwrite/console](https://github.com/appwrite/console)
 ## AI / ML
 1.[Tenserflow](https://github.com/tensorflow/tensorflow)
+2.[Open CV](https://github.com/opencv/opencv)
 ## Others
 
 1. [uuvsimulator/uuv_simulator](https://github.com/uuvsimulator/uuv_simulator)
