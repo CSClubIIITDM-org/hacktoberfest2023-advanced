@@ -9,6 +9,7 @@
 5. [DuCanhGH/next-pwa](https://github.com/DuCanhGH/next-pwa)
 6. [juxtopposed/realtimecolors](https://github.com/juxtopposed/realtimecolors)
 7. [tourism/website](https://github.com/PritamSarbajna/tourism-website)
+8. [appwrite/console](https://github.com/appwrite/console)
 ## AI / ML
 
 ## Others
