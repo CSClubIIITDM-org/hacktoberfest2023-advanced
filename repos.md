@@ -13,6 +13,7 @@
 ## AI / ML
 1. [Tenserflow](https://github.com/tensorflow/tensorflow)
 2. [Open CV](https://github.com/opencv/opencv)
+3. [Pytorch](https://github.com/pytorch/pytorch)
 ## Others
 
 1. [uuvsimulator/uuv_simulator](https://github.com/uuvsimulator/uuv_simulator)
