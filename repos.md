@@ -10,10 +10,13 @@
 6. [juxtopposed/realtimecolors](https://github.com/juxtopposed/realtimecolors)
 7. [tourism/website](https://github.com/PritamSarbajna/tourism-website)
 8. [appwrite/console](https://github.com/appwrite/console)
+
 ## AI / ML
+
 1. [Tenserflow](https://github.com/tensorflow/tensorflow)
 2. [Open CV](https://github.com/opencv/opencv)
 3. [Pytorch](https://github.com/pytorch/pytorch)
+
 ## Others
 
 1. [uuvsimulator/uuv_simulator](https://github.com/uuvsimulator/uuv_simulator)
@@ -21,3 +24,5 @@
 3. [gazebosim/gazebo-classic](https://github.com/gazebosim/gazebo-classic)
 4. [auvsocietyiiitdm/thrustered_vehicle_motioncontroller](https://github.com/auvsocietyiiitdm/thrustered_vehicle_motioncontroller)
 5. [manashmandal/KMapSolver](https://github.com/manashmandal/KMapSolver)
+6. [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial)
+7. [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset)
