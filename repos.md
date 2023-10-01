@@ -10,6 +10,7 @@
 6. [juxtopposed/realtimecolors](https://github.com/juxtopposed/realtimecolors)
 7. [tourism/website](https://github.com/PritamSarbajna/tourism-website)
 8. [appwrite/console](https://github.com/appwrite/console)
+9. [necolas/normalize.css](https://github.com/necolas/normalize.css)
 
 ## AI / ML
 
