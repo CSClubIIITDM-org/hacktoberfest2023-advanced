@@ -12,6 +12,7 @@
 8. [appwrite/console](https://github.com/appwrite/console)
 9. [necolas/normalize.css](https://github.com/necolas/normalize.css)
 10. [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator)
+11. [jordihales/hypercolor](https://github.com/jordihales/hypercolor)
 
 ## AI / ML
 
